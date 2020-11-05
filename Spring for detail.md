@@ -6,11 +6,11 @@
 
 ### 1.新建一个Spring项目
 
-<img src="../typora_image/image-20201105164653064.png" alt="image-20201105164653064" style="zoom:67%;" />
+<img src="./typora_image/image-20201105164653064.png" alt="image-20201105164653064" style="zoom:67%;" />
 
 项目总结构
 
-<img src="../typora_image/image-20201105164925724.png" alt="image-20201105164925724" style="zoom:67%;" />
+<img src="./typora_image/image-20201105164925724.png" alt="image-20201105164925724" style="zoom:67%;" />
 
 ### 2.新建一个配置文件
 
